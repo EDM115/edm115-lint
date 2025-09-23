@@ -1,0 +1,49 @@
+{
+  "author": "EDM115 <npmjs@edm115.dev> (https://edm115.dev)",
+  "bugs": {
+    "email": "npmjs@edm115.dev",
+    "url": "https://github.com/EDM115/edm115-lint/issues"
+  },
+  "description": "My very own sensible lint and style configs to reuse across my repos",
+  "exports": {
+    "./eslint-stylistic.json": "./eslint-stylistic.json",
+    "./.oxlintrc.base.json": "./.oxlintrc.base.json"
+  },
+  "files": [
+    ".oxlintrc.base.json",
+    "eslint-stylistic.json",
+    "LICENSE",
+    "README.md"
+  ],
+  "funding": [
+    {
+      "type": "paypal",
+      "url": "https://www.paypal.me/8EDM115"
+    },
+    {
+      "type": "buymeacoffee",
+      "url": "https://www.buymeacoffee.com/edm115"
+    },
+    {
+      "type": "github",
+      "url": "https://github.com/sponsors/EDM115"
+    },
+    {
+      "type": "telegram",
+      "url": "https://t.me/EDM115bots/698"
+    }
+  ],
+  "homepage": "https://github.com/EDM115/edm115-lint#readme",
+  "license": "MIT",
+  "name": "edm115-lint",
+  "packageManager": "pnpm@10.17.1",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EDM115/edm115-lint.git"
+  },
+  "type": "module",
+  "version": "0.1.0"
+}
