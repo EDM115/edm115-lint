@@ -28,7 +28,6 @@
     "import/no-duplicates": "error",
     "import/no-named-as-default": "warn",
     "import/no-named-as-default-member": "warn",
-    "import/no-unresolved": [ "error", { "ignore": [ "^~icons/", "\\.svg\\?.*$" ] }],
     "max-statements": "off",
     "no-array-constructor": "error",
     "no-await-in-loop": "error",

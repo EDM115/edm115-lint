@@ -5,10 +5,6 @@
     "url": "https://github.com/EDM115/edm115-lint/issues"
   },
   "description": "My very own sensible lint and style configs to reuse across my repos",
-  "exports": {
-    "./eslint-stylistic.json": "./eslint-stylistic.json",
-    "./.oxlintrc.base.json": "./.oxlintrc.base.json"
-  },
   "files": [
     ".oxlintrc.base.json",
     "eslint-stylistic.json",
@@ -36,7 +32,7 @@
   "homepage": "https://github.com/EDM115/edm115-lint#readme",
   "license": "MIT",
   "name": "edm115-lint",
-  "packageManager": "pnpm@10.17.1",
+  "packageManager": "pnpm@10.18.2",
   "publishConfig": {
     "access": "public"
   },
@@ -45,5 +41,5 @@
     "url": "git+https://github.com/EDM115/edm115-lint.git"
   },
   "type": "module",
-  "version": "0.1.0"
+  "version": "0.1.1"
 }

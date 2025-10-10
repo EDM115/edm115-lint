@@ -38,7 +38,7 @@ export default [
 // .oxlintrc.json
 {
   "$schema": "./node_modules/oxlint/configuration_schema.json",
-  "extends": ["edm115-lint/.oxlintrc.base.json"],
+  "extends": ["./node_modules/edm115-lint/.oxlintrc.base.json"],
   "plugins": [ "vue" ],
   "env": {
     "es2025": true,

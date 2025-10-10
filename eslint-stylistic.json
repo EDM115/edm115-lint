@@ -137,7 +137,7 @@
   "@stylistic/no-trailing-spaces": [ "warn", { "ignoreComments": true }],
   "@stylistic/no-whitespace-before-property": "warn",
   "@stylistic/nonblock-statement-body-position": [ "warn", "beside" ],
-  "@stylistic/object-curly-newline": [ "warn", { "minProperties": 2 }],
+  "@stylistic/object-curly-newline": [ "warn", { "minProperties": 2, "consistent": true }],
   "@stylistic/object-curly-spacing": [ "warn", "always" ],
   "@stylistic/object-property-newline": [ "warn", { "allowAllPropertiesOnSameLine": true }],
   "@stylistic/operator-linebreak": [ "warn", "before" ],
