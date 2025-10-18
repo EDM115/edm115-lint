@@ -55,7 +55,11 @@
       "ImportDeclaration": "first",
       "flatTernaryExpressions": false,
       "offsetTernaryExpressions": true,
-      "offsetTernaryExpressionsOffsetCallExpressions": true,
+      "offsetTernaryExpressionsOffsetCallExpressions": {
+        "AwaitExpression": true,
+        "CallExpression": true,
+        "NewExpression": true
+      },
       "ignoreComments": true
     }
   ],
