@@ -41,5 +41,5 @@
     "url": "git+https://github.com/EDM115/edm115-lint.git"
   },
   "type": "module",
-  "version": "0.1.2"
+  "version": "0.1.3"
 }
