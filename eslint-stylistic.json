@@ -207,7 +207,7 @@
       "after": true,
       "overrides": { "colon": {
         "before": false,
-        "after": true,
+        "after": true
       }}
     }
   ],
